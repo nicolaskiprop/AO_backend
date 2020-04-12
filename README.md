@@ -24,7 +24,7 @@ analytics tool.
 # Json fromat
 {
 
-   “message”:””,
+   “message”:”...”,
    
      “payload”:{
      
@@ -34,4 +34,4 @@ analytics tool.
       
 }
 
-we shall add more as we continue
+//we shall add more as we continue
