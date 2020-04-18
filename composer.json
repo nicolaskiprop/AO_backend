@@ -5,7 +5,7 @@
 	"license": "MIT",
 	"type": "project",
 	"require": {
-		"laravel/framework": "^6.2",
+		"laravel/framework": "^7.",
 		"php": "^7.2",
 		"laravel/passport": "^8.2",
 		"fideloper/proxy": "^4.0",
@@ -24,11 +24,6 @@
 			"app/tests/TestCase.php"
 		]
 	},
-
-
-
-	
-
 
 	"scripts": {
 		"post-install-cmd": [
