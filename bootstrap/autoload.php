@@ -44,7 +44,7 @@ if (file_exists($compiled = __DIR__.'/compiled.php'))
 */
 
 Patchwork\Utf8\Bootup::initMbstring();
-
+Illuminate\support\Classloader::autoload(); 
 /*
 |--------------------------------------------------------------------------
 | Register The Laravel Auto Loader
